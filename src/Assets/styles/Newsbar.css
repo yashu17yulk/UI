@@ -1,0 +1,110 @@
+.newsbar {
+  position: absolute;
+  width: 1920px;
+  height: 285px;
+
+  background: #3187ed;
+}
+.news-image {
+  position: absolute;
+  width: 116px;
+  height: 102px;
+  margin-left: 151px;
+  margin-top: 92px;
+}
+.news-image1 {
+  position: absolute;
+  width: 51px;
+  height: 51px;
+  margin-left: 618px;
+  margin-top: -185px;
+}
+.news-image2 {
+  position: absolute;
+  width: 653px;
+  height: 80px;
+  margin-left: 1107px;
+  margin-top: -125px;
+  background: #ffffff;
+  border-radius: 12px;
+}
+.news-image3 {
+    position: absolute;
+    width: 191px;
+    height: 24px;
+    margin-left: 1149px;
+   margin-top:-96px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #8D8D8D;
+    
+    
+}
+.news-image4 {
+    position: absolute;
+    width: 187px;
+    height: 60px;
+    margin-left: 1564px;
+    margin-top:-115px;
+   
+    background: #4D4D4D;
+    border-radius: 12px;
+}
+.news-image5 {
+    position: absolute;
+    width: 97px;
+    height: 24px;
+    margin-top:-96px;
+    margin-left: 1608px;
+ 
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+ 
+    color: #FFFFFF;
+    
+    
+}
+.news-image6 {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 1736px;
+   margin-top: -70px;
+ 
+    
+}
+.text {
+  width: 338px;
+  height: 55px;
+  margin-left: 339px;
+  margin-top: 76px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 45px;
+  color: #ffffff;
+}
+
+.text1 {
+  width: 663px;
+  height: 64px;
+  margin-left: 339px;
+  margin-top: -146;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+
+  color: #ffffff;
+}

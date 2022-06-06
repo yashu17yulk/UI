@@ -1,0 +1,217 @@
+.navbar-header{
+
+ 
+    width:1920px;
+height: 136px;
+left: 0px;
+top: 40px;
+
+background: #ffffff;
+}
+
+ 
+.main-column100{
+      margin-top: 50px;
+      margin-right: 130px;
+  
+  }
+.main-column101{
+    margin-top: 25px;
+    margin-right: 150px;
+   
+
+}
+
+ 
+
+.myl1{
+
+  margin-left: 151px;
+}
+
+.bacg{
+ 
+  position: absolute;
+width: 246px;
+height: 70px;
+margin-left: 40px;
+margin-top: -10px;
+ 
+border-radius: 12px;
+}
+.ard{
+
+  box-sizing: border-box;
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 609px;
+top: 108px;
+ 
+}
+
+.myl1{
+
+  margin-top: 40px;
+  margin-left: 150px;
+
+}
+
+.cls1{
+  position: absolute;
+width: 110px;
+height: 30px;
+left: 465px;
+top: 80px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+ 
+color: #4D4D4D;
+}
+
+.sh1{
+
+  
+position: absolute;
+width: 554px;
+height: 70px;
+left: 690px;
+top: 85px;
+ 
+background: #F8F8F8;
+border-radius: 12px;
+}
+
+.sh2{
+
+  position: absolute;
+width: 168px;
+height: 30px;
+left: 710px;
+top: 105px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+
+/* identical to box height */
+
+/* Text 2 */
+color: #4D4D4D;
+}
+.logo-3{
+  position: absolute;
+width: 18px;
+height: 23px;
+left: 1324px;
+top: 15px;
+ 
+}
+.se1{
+
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 1175px;
+  top: 108px;
+ 
+}
+
+.hr1{
+  box-sizing: border-box;
+
+position: absolute;
+width: 24px;
+height: 21px;
+left: 1341px;
+top: 108px;
+ 
+}
+
+.bu1{
+
+  position: absolute;
+  width: 24px;
+  height: 21px;
+  left: 1400px;
+  top: 108px;
+ 
+
+}
+.bg11{
+  position: absolute;
+  width: 14px;
+  height: 13px;
+  left: 1410px;
+  top: 100px;
+  border-radius: 50px;
+  /* products */
+  background: #3187ED;
+  border: 2px solid #FFFFFF;
+}
+.bg12{
+  position: absolute;
+  width: 10px;
+  height: 19px;
+  left: 1415px;
+  top: 98px;
+  
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 19px;
+  
+  color: #eeecec;
+  
+  
+}
+.men{
+
+  position: absolute;
+width: 25px;
+height: 23px;
+left: 1455px;
+top: 108px;
+}
+
+.bgc{
+
+  position: absolute;
+  width: 164px;
+  height: 70px;
+  left: 1590px;
+  top: 85px;
+  
+  /* Claasifides */
+  background: #00C6D7;
+  box-shadow: 0px 11px 27px rgba(0, 198, 215, 0.35);
+  border-radius: 12px;
+
+}
+
+.bg112{
+
+  position: absolute;
+width: 102px;
+height: 27px;
+left: 1630px;
+top: 105px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+}
